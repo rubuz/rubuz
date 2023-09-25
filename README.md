@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matjaz</h1>
-<h3 align="center">Aspiring SysAdmin from Slovenia transitioning to Front-End Developer</h3>
+<h3 align="center">SysAdmin from Slovenia transitioning to Front-End Developer</h3>
 <img align="right" alt="Coder" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzB2bHNodDlsNnF1ZDIwbWo4a3N5MzFtbWJxbWNnN2Y5bGE3MDJtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubuz&label=Profile%20views&color=0e75b6&style=flat" alt="rubuz" /> </p>
