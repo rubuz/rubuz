@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **ReactJS + Typescript**
 
-- 👨‍💻 All of my projects are available at [https://lovenjak.netlify.app/](My PORTFOLIO)
+- 👨‍💻 All of my projects are available at [https://lovenjak.netlify.app/]([My PORTFOLIO](https://lovenjak.netlify.app/assets/CV--pSK-WST.pdf))
 
 - 💬 Ask me about **React, CSS, design**
 
 - 📫 How to reach me **rubuz23@gmail.com**
 
-- 📄 Know about my experiences [https://lovenjak.netlify.app/assets/CV--pSK-WST.pdf](My CV)
+- 📄 Know about my experiences [My CV](https://lovenjak.netlify.app/assets/CV--pSK-WST.pdf)
 
 - ⚡ Fun fact **I'm passionate motorcyclist who excels at making coffee.**
 
