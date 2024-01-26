@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS + Typescript**
 
-- 👨‍💻 All of my projects are available at [https://lovenjak.netlify.app/]([My PORTFOLIO](https://lovenjak.netlify.app/assets/CV--pSK-WST.pdf))
+- 👨‍💻 All of my projects are available at [My PORTFOLIO](https://lovenjak.netlify.app)
 
 - 💬 Ask me about **React, CSS, design**
 
