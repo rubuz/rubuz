@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubuz&label=Profile%20views&color=0e75b6&style=flat" alt="rubuz" /> </p>
 
-- 🌱 I’m currently learning **ReactJS + Typescript**
+- 🌱 I’m currently learning **NextJS + Typescript**
 
 - 👨‍💻 All of my projects are available at [My PORTFOLIO](https://lovenjak.netlify.app)
 
