@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rubuz23@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://lovenjak.netlify.app/assets/CV--pSK-WST.pdf)
+- 📄 Know about my experiences [My CV](https://lovenjak.netlify.app/assets/CV-ovqtnJdS.pdf)
 
 - ⚡ Fun fact **I'm passionate motorcyclist who excels at making coffee.**
 
