@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS + Typescript**
 
-- 👨‍💻 All of my projects are available at [My PORTFOLIO](https://lovenjak.netlify.app)
+- 👨‍💻 All of my projects are available at [My PORTFOLIO](https://lovenjak.vercel.app)
 
 - 💬 Ask me about **React, CSS, design**
 
