@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [My CV](https://lovenjak.vercel.app/assets/CV-TwL53dpY.pdf)
 
-- ⚡ Fun fact **I'm passionate motorcyclist who excels at making coffee.**
+- ⚡ Fun fact **I'm a passionate motorcyclist who excels at making coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
