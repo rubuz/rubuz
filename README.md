@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matjaz</h1>
-<h3 align="center">SysAdmin from Slovenia transitioning to Front-End Developer</h3>
-<img align="right" alt="Coder" width="400" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/045/682/original/kittyyellow.gif?1662526767">
+<h3 align="center">Front-End Developer from Slovenia</h3>
+<img align="center" alt="Coder" width="500" src="https://s3.amazonaws.com/shecodesio-production/uploads/files/000/045/682/original/kittyyellow.gif?1662526767">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubuz&label=Profile%20views&color=0e75b6&style=flat" alt="rubuz" /> </p>
 
