@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Typescript + React Native**
 
-- 👨‍💻 All of my projects are available at [My PORTFOLIO](https://lovenjak.vercel.app)
+- 👨‍💻 Check out [My PORTFOLIO](https://lovenjak.vercel.app)
 
 - 💬 Ask me about **React, CSS, design**
 
