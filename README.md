@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubuz&label=Profile%20views&color=0e75b6&style=flat" alt="rubuz" /> </p>
 
-- 🌱 I’m currently learning **Typescript + React Native**
+- 🌱 I’m currently learning **Backend technologies + Laravel**
 
 - 👨‍💻 Check out [My PORTFOLIO](https://lovenjak.vercel.app)
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rubuz23@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://lovenjak.vercel.app/assets/CV-MNnRcK7H.pdf)
+- 📄 Know about my experiences [My CV](https://lovenjak.vercel.app/assets/CV-C2m8LLnK.pdf)
 
 - ⚡ Fun fact **I'm a passionate motorcyclist who excels at making coffee.**
 
